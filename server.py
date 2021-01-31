@@ -1,3 +1,4 @@
+server.py                                               
 import colorama
 import os
 import sys
@@ -22,19 +23,19 @@ banner = print(wi + gr + '''
 |_|  _______)~`)  |_|
     [=======]  ()       
 ''')
+cmd = input(wi + 'Would you like to start a server?(y/n): ')
 def server():
   try:
-      cmd = input("Would you like to start a server?(y/n)")
-      ip = input('Input Your Ip: ')
-      print(Fore.CYAN + 'Waiting For Client...')
-      server = StreamingServer(ip,9999)
-      if cmd == "y":
-       server.start_server()
+      ip = input(yl  + 'Input Your IP: ')
+      port = print(yl + 'Port is: 9999')
+      print(wi + 'Waiting For Client...')
+      server = StreamingServer(ip,9999)    
+      server.start_server()
   except ConnectionError:
       print(rd + "Make sure you have an internet connected!")
-  else:
-      pass
-server()
-
+if cmd == "y":
+  server() 
+else:
+  sys.exit()
 
 
