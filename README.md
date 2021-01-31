@@ -45,7 +45,7 @@ Dillinger uses a number of open source projects to work properly:
 * [Github]() - Platform where devs contribute their code for all to see.
 * [PyPi]() - Used to install python modules
 ### Links
-| Social |  Media |
+| Linked | Plugins|
 | ------ | ------ |
 | GitHub | [https://github.com]() |
 | Twitter | [https:/twitter.com/elitefonder]() |
