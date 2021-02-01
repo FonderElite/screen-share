@@ -7,9 +7,9 @@
 Screen-Share is a CLI application used  for sharing screen or video.
 
 # Features
-  - Works efficiently
-  - Videos run 40-60 fps
-  - Beta Version
+ - [x] works efficiently
+ - [x] Videos run 40-60 fps
+ - [x] Beta Version
 
 # Benefits
 - [x] Faster than GUI
