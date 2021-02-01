@@ -12,9 +12,9 @@ Screen-Share is a CLI application used  for sharing screen or video.
   - Beta Version
 
 # Benefits
-[x] - Faster than GUI
-[x] - Supports all devices!
-[x] -  It's less buggy
+- [x] Faster than GUI
+- [x]  Supports all devices!
+- [x]  It's less buggy
 
 
 ## Installation && Usage
