@@ -38,7 +38,7 @@ Python is an interpreted, high-level and general-purpose programming language. P
 
 ## Technologies
 
-* [Google]() - Google Mo Tanga! 
+* [Google]() - Dont ask just Google.
 * [Python]() - High level Programming language
 * [Github]() - Platform where devs contribute their code for all to see.
 * [PyPi]() - Used to install python modules
