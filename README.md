@@ -43,11 +43,11 @@ Python is an interpreted, high-level and general-purpose programming language. P
 * [Github]() - Platform where devs contribute their code for all to see.
 * [PyPi]() - Used to install python modules
 ### Links
-| Linked | Plugins|
+| Linked | Socials|
 | ------ | ------ |
 | GitHub | [https://github.com]() |
 | Twitter | [https:/twitter.com/elitefonder]() |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
+| TryHackMe | [https://tryhackme.com/p/FonderElite]() |
+| Gmail | [s1170294@usls.edu.ph]() |
 | Medium | [plugins/medium/README.md][PlMe] |
 | Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
